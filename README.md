@@ -39,6 +39,7 @@
 - Codeforces Round 920 — 903rd (top 2.4%)
 - Educational Codeforces Round 167 — 1390th (top 4.3%)
 - ICPC Asia Dhaka Regional 2024, Onsite — 44th (top 14%)
+- 2nd Runner-Up — DRMC Inter-University PC 2024
 - Ranked **#1** at DIU in the 2023–24 individual contest tracker
 
 ### Get in Touch
